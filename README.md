@@ -1,14 +1,24 @@
-# liveweather
+# LiveWeather
 
+A simple live weather dashboard that provides real-time weather details for any city, including air quality information.
 
-A simple live weather dashboard with various information based on city (bonus: air quality as well). 
+## Features
+- Get live weather updates for any city.
+- View additional details such as temperature, humidity, and wind speed.
+- Bonus: Includes air quality index (AQI) data.
 
-> [!IMPORTANT]
-> This project is the part of a college assignment. 
+## Demo
+Try the live demo: [LiveWeather](https://liveweather-ts.streamlit.app/)
 
-<img src="assets/demo.png" alt="demo" width="75%"/>
+## Preview
+<img src="assets/demo.png" alt="demo" width="80%"/>
 
+## Usage
+1. Enter the name of the city.
+2. View real-time weather data and air quality index.
+3. Use the dashboard for quick weather insights.
 
-DEMO: https://liveweather-ts.streamlit.app/
-
+## License
+This project is licensed under the MIT License.
+This project is part of a college assignment.
 
