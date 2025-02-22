@@ -20,5 +20,5 @@ Try the live demo: [LiveWeather](https://liveweather-ts.streamlit.app/)
 
 ## License
 This project is licensed under the MIT License.
-This project is part of a college assignment.
+
 
